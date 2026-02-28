@@ -1,4 +1,4 @@
-#Structura Proiectului (Problema 2)
+Structura Proiectului (Problema 2)
 Codul este impartit in 4 fisiere pentru o mai buna organizare:
 
 OrderItem.cs - Contine datele despre produs: nume, cantitate si pret.
