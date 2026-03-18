@@ -11,5 +11,5 @@ A C# console application designed to manage customer orders, calculate discounte
 ## Technical Stack
 
 * **Language:** C#
-* [cite_start]**Framework:** .NET 8.0 
-* [cite_start]**Environment:** Console Application 
+* **Framework:** .NET 8.0 
+* **Environment:** Console Application 
